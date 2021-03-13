@@ -1,7 +1,7 @@
 ---
 title: Vincent Coll
 role: Professor of Artificial Intelligence
-avatar_filename: photo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
