@@ -16,5 +16,5 @@ content:
 design:
   columns: "2"
   background:
-    image: /assets/media/photo.jpg
+    image: ""
 ---
