@@ -1,5 +1,5 @@
 ---
-widget: Say something here ??
+widget: about
 active: true
 author: admin
 widget_id: about-widget
